@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/studenttospringboot/studenttospringboot/MumSched.iml" filepath="$PROJECT_DIR$/studenttospringboot/studenttospringboot/MumSched.iml" />
+      <module fileurl="file://$PROJECT_DIR$/studenttospringboot/studenttospringboot/bin/studenttospringboot.iml" filepath="$PROJECT_DIR$/studenttospringboot/studenttospringboot/bin/studenttospringboot.iml" />
+    </modules>
+  </component>
+</project>
