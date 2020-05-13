@@ -1,4 +1,1 @@
-# MumSched
-
-This is for MIU Sched.This is about class scheduling.
-Group 7
+# MUMSched2018
