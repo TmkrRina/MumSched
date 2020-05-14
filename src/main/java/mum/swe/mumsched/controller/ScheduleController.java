@@ -30,8 +30,7 @@ import mum.swe.mumsched.service.UserService;
 import mum.swe.mumsched.validator.UserValidator;
 
 /**
- * @author Huu Tam Huynh
- * @date Fed 5, 2018
+ * @author Group 7
  */
 @Secured("ROLE_ADMIN")
 @RequestMapping(path = "/schedule")

@@ -9,10 +9,6 @@ import org.springframework.stereotype.Repository;
 import mum.swe.mumsched.enums.MonthEnum;
 import mum.swe.mumsched.model.Block;
 
-/**
- * @author Brian Nguyen
- * @date Jan 31, 2018
- */
 @Repository
 public interface BlockRepository extends CrudRepository<Block, Long> {
 	@Query("SELECT e FROM Block e")

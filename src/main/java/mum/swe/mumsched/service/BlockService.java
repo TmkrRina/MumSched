@@ -4,10 +4,7 @@ import java.util.List;
 import mum.swe.mumsched.enums.MonthEnum;
 import mum.swe.mumsched.model.Block;
 
-/**
- * @author Brian Nguyen
- * @date Jan 31, 2018
- */
+
 public interface BlockService {
 
 	Iterable<Block> getList();

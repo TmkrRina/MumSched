@@ -7,10 +7,7 @@ import org.springframework.stereotype.Repository;
 
 import mum.swe.mumsched.model.Schedule;
 
-/**
- * @author Mandakh Nyamdavaa
- * @date Feb 06, 2018
- */
+
 
 @Repository
 public interface ScheduleViewRepository extends JpaRepository<Schedule,Long>{

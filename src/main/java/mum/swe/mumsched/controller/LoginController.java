@@ -22,8 +22,8 @@ import mum.swe.mumsched.validator.UserValidator;
 import mum.swe.mumsched.view.ForgotPasswordView;
 
 /**
- * @author Batjargal Bayarsaikhan (Alex)
- * @date Jan 24, 2018
+ * @author Group 7
+
  */
 @Controller
 //@Configuration

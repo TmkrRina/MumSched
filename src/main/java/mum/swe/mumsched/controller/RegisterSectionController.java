@@ -20,8 +20,7 @@ import mum.swe.mumsched.model.Student;
 import mum.swe.mumsched.service.StudentService;
 
 /**
- * @author Mandakh Nyamdavaa
- * @date Feb 04, 2018
+ * @author Group 7
  */
 @Controller
 public class RegisterSectionController {

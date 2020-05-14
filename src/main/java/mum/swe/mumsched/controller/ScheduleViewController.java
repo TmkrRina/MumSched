@@ -11,8 +11,7 @@ import mum.swe.mumsched.model.Schedule;
 import mum.swe.mumsched.service.ScheduleViewService;
 
 /**
- * @author Mandakh Nyamdavaa
- * @date Fed 06, 2018
+ * @author Group 7
  */
 
 @Controller

@@ -20,8 +20,7 @@ import mum.swe.mumsched.service.FacultyService;
 import mum.swe.mumsched.validator.UserValidator;
 
 /**
- * @author Mandakh Nyamdavaa
- * @date Jan 26, 2018
+ * @author Group 7
  */
 
 @Controller

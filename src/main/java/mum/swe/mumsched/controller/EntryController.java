@@ -23,8 +23,7 @@ import mum.swe.mumsched.service.MessageByLocaleService;
 
 
 /**
- * @author Brian Nguyen
- * @date Jan 25, 2018
+ * @author Group 7
  */
 @Secured("ROLE_ADMIN")
 @RequestMapping(path = "/entry")
